@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SRedCodes
 - 👀 I’m interested in Full Stack Web Development & **Web 3.0**
-- 🌱 I’m currently  a **Frontend Developer** willing to learn back-end and work as full Stack web Developer
+- 🌱 I’m currently  a **Frontend Developer**  learning back-end development to become a **MERN Stack web Developer**
 - 💞️ I’m looking to collaborate on project that use - **ReactJS** & **Javascript** for frontend Development.
 - 📫 How to reach me srika.kodes@gmail.com 
 
